@@ -34,5 +34,17 @@
  "urlStr":"http://www.baidu.com",
  "backState":1,
  "isAudit":1,
+ "userInfo":0},
+
+{"bid":"scks.yqbq.bq.sco",
+ "auditState":0,
+ "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001558&game_version=3.16.3&initial=",
+ "version":"1.0.1",
+ "isPortrait":0,
+ "isIap":1,
+ "needChange":0,
+ "urlStr":"http://www.baidu.com",
+ "backState":1,
+ "isAudit":1,
  "userInfo":0}
  ]
